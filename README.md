@@ -1,5 +1,5 @@
 # nodejs_server
-Vagrantfile and init nodejs environment
+
 
 ## init
 ```
